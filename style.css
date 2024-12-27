@@ -1,0 +1,33 @@
+*{
+    margin: 0;padding: 0;
+    }
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+.real {
+    margin: auto auto;
+    width: 90vw;
+    height: 100vh;
+    color: #008000;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
+
+h1 ,p {
+    text-align: center;
+}
+
+#drawer {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #fff;
+}
